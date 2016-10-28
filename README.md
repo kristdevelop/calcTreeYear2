@@ -1,5 +1,10 @@
 # calcTreeYear2
-esimesena VALIK puu >
-peaks aru saama, mida KLIKITI >
-siis küsida puu ümbermõõt, kas JavaFX textfield aknaga? >
-siis oleks mul üks arvutuskäik, kus vastava puuga käib koefitsent, korrutatakse küsitud ümbermõõduga
+Mida projekt teeb?
+Küsib puu liiki, küsib selle ümbermõõtu ja annab tulemuseks hinnangu puu vanusest.
+
+Main class all määran objektid ja tegevused ehk klassid
+
+Andmesisendeid küsitakse kasutajalt JavaFX kasutajaliidesega.
+
+Puu valik > programm tuvastab, mis valiti > kinnitus, kas on õige puuga tegu > siis küsib puu ümbermõõtu
+Tulemuseks tagastab hinnangu, mis on selle puu vanus.
