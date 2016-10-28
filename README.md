@@ -8,3 +8,7 @@ Andmesisendeid küsitakse kasutajalt JavaFX kasutajaliidesega.
 
 Puu valik > programm tuvastab, mis valiti > kinnitus, kas on õige puuga tegu > siis küsib puu ümbermõõtu
 Tulemuseks tagastab hinnangu, mis on selle puu vanus.
+
+Lisa:
+rakenduse kasutamiseks peab kasutaja sisenema õige parooliga;
+mõned arendusmõtted on veel...
